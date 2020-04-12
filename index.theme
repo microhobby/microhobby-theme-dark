@@ -1,14 +1,14 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=MicroHobby Beta Dark
-Comment=MicroHobby Beta Dark
-Comment=Author : Matheus Castello
-Version=v0.1
+Name=Windows 10 Dark
+Comment=Windows 10 UI for Linux OSes
+Comment=Author : Christian Medel (Elbullazul)
+Version=v2.0
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=MicroHobby Beta Dark
-MetacityTheme=MicroHobby Beta Dark
+GtkTheme=Windows 10 Dark
+MetacityTheme=Windows 10 Dark
 IconTheme=Windows 10
 CursorTheme=DMZ-White
 ButtonLayout=menu:minimize,maximize,close
